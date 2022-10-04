@@ -1,0 +1,20 @@
+.oddlynumbered {
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    background-color: #ff9999;
+
+}
+
+#lonelyblue {
+    color: blue;
+    font-size: 36px;
+}
+
+#popularguy {
+    font-size: 24px;
+}
+
+#fashionable {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
